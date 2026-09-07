@@ -1,3 +1,6 @@
 USE DB0
-go
-DROP DATABASE DB1
+CREATE TABLE Tablihko(
+	id INT,
+	name VARCHAR(100),
+	age INT
+);
