@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{D753FD8E-49F9-9012-8BED-1AE934946414}|gomerbarton.ssmssqlproj|C:\\mySql\\mySql\\gomerbarton\\DbCreate.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
       "RelativeMoniker": "D:0:0:{D753FD8E-49F9-9012-8BED-1AE934946414}|gomerbarton.ssmssqlproj|solutionrelative:DbCreate.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753FD8E-49F9-9012-8BED-1AE934946414}|gomerbarton.ssmssqlproj|C:\\mySql\\mySql\\gomerbarton\\InsertTble.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{D753FD8E-49F9-9012-8BED-1AE934946414}|gomerbarton.ssmssqlproj|solutionrelative:InsertTble.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753FD8E-49F9-9012-8BED-1AE934946414}|gomerbarton.ssmssqlproj|C:\\mySql\\mySql\\gomerbarton\\Selct.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{D753FD8E-49F9-9012-8BED-1AE934946414}|gomerbarton.ssmssqlproj|solutionrelative:Selct.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,18 +22,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Selct.sql - COMP7A2\\SQLEXPRESS.DB0 (COMP7A2\\Comp7 (61))",
+              "DocumentMoniker": "C:\\mySql\\mySql\\gomerbarton\\Selct.sql",
+              "RelativeDocumentMoniker": "Selct.sql",
+              "ToolTip": "Selct.sql - COMP7A2\\SQLEXPRESS.DB0 (COMP7A2\\Comp7 (61))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-07T09:33:12.634Z",
+              "EditorCaption": " - COMP7A2\\SQLEXPRESS.DB0 (COMP7A2\\Comp7 (61))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsertTble.sql - COMP7A2\\SQLEXPRESS.DB0 (COMP7A2\\Comp7 (54))",
+              "DocumentMoniker": "C:\\mySql\\mySql\\gomerbarton\\InsertTble.sql",
+              "RelativeDocumentMoniker": "InsertTble.sql",
+              "ToolTip": "InsertTble.sql - COMP7A2\\SQLEXPRESS.DB0 (COMP7A2\\Comp7 (54))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-07T09:30:11.797Z",
+              "EditorCaption": " - COMP7A2\\SQLEXPRESS.DB0 (COMP7A2\\Comp7 (54))"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DbCreate.sql - COMP7A2\\SQLEXPRESS (COMP7A2\\Comp7 (52)) - not connected",
+              "Title": "DbCreate.sql - COMP7A2\\SQLEXPRESS.DB0 (COMP7A2\\Comp7 (53))",
               "DocumentMoniker": "C:\\mySql\\mySql\\gomerbarton\\DbCreate.sql",
               "RelativeDocumentMoniker": "DbCreate.sql",
-              "ToolTip": "DbCreate.sql - COMP7A2\\SQLEXPRESS (COMP7A2\\Comp7 (52)) - not connected",
+              "ToolTip": "DbCreate.sql - COMP7A2\\SQLEXPRESS.DB0 (COMP7A2\\Comp7 (53))",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2026-09-07T09:13:02.853Z",
-              "EditorCaption": " - COMP7A2\\SQLEXPRESS (COMP7A2\\Comp7 (52)) - not connected"
+              "EditorCaption": " - COMP7A2\\SQLEXPRESS.DB0 (COMP7A2\\Comp7 (53))"
             }
           ]
         }

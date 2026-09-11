@@ -1,0 +1,2 @@
+DECLARE @V varchar(10) = 'DDDDDDDDDDDDDDD'
+SELECT @V AS text
