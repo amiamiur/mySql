@@ -1,4 +1,4 @@
-USE TestIndex
+USE TestIndex2
 GO
 
 CREATE TABLE accaunt(

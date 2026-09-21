@@ -1,12 +1,9 @@
-CREATE INDEX fk_1
+USE TestIndex2
+go
+
+CREATE CLUSTERED INDEX pk_orders_1
+	ON orders(id)
+	-- = PK
+
+CREATE NONCLUSTERED INDEX fk_orders_2
 	ON orders(product_id)
-
-CREATE INDEX fk_2
-	ON orders(customer_id)
-
-CREATE UNIQUE INDEX fk_3
-	ON orders(customer_id, product_id)
-
-
-CREATE NONCLUSTERED INDEX fk_4
-	ON orders(customer_id, product_id, price)
