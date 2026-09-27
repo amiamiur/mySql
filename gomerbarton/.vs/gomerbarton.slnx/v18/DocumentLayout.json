@@ -3,19 +3,26 @@
   "WorkspaceRootPath": "C:\\mySql\\mySql\\gomerbarton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{200E93D5-1164-AE37-7879-E52343A66074}|..\\Questions\\Questions.ssmssqlproj|C:\\mySql\\mySql\\Questions\\SQLQuery6.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{200E93D5-1164-AE37-7879-E52343A66074}|..\\Questions\\Questions.ssmssqlproj|C:\\mySql\\mySql\\Questions\\SQL.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{200E93D5-1164-AE37-7879-E52343A66074}|..\\Questions\\Questions.ssmssqlproj|C:\\mySql\\mySql\\Questions\\TestIndexTabls.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{200E93D5-1164-AE37-7879-E52343A66074}|..\\Questions\\Questions.ssmssqlproj|C:\\mySql\\mySql\\Questions\\SQLQuery2.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{200E93D5-1164-AE37-7879-E52343A66074}|..\\Questions\\Questions.ssmssqlproj|C:\\mySql\\mySql\\Questions\\\u043A\u043B\u0430\u0441\u0442\u0435\u0440\u043D\u044B\u0439\u0418\u043D\u0434\u0435\u043A\u0441.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+      "AbsoluteMoniker": "D:0:0:{4C25B500-4E04-C818-F355-2253AD7C6870}|..\\SQL Server Scripts1\\SQL Server Scripts1.ssmssqlproj|C:\\mySql\\mySql\\SQL Server Scripts1\\2filegroup.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C25B500-4E04-C818-F355-2253AD7C6870}|..\\SQL Server Scripts1\\SQL Server Scripts1.ssmssqlproj|C:\\mySql\\mySql\\SQL Server Scripts1\\3tables.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C25B500-4E04-C818-F355-2253AD7C6870}|..\\SQL Server Scripts1\\SQL Server Scripts1.ssmssqlproj|C:\\mySql\\mySql\\SQL Server Scripts1\\4insert.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C25B500-4E04-C818-F355-2253AD7C6870}|..\\SQL Server Scripts1\\SQL Server Scripts1.ssmssqlproj|C:\\mySql\\mySql\\SQL Server Scripts1\\1crtDb.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753FD8E-49F9-9012-8BED-1AE934946414}|gomerbarton.ssmssqlproj|C:\\mySql\\mySql\\gomerbarton\\InsertTble.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{D753FD8E-49F9-9012-8BED-1AE934946414}|gomerbarton.ssmssqlproj|solutionrelative:InsertTble.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200E93D5-1164-AE37-7879-E52343A66074}|..\\Questions\\Questions.ssmssqlproj|C:\\mySql\\mySql\\Questions\\SelectFromTabls.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D753FD8E-49F9-9012-8BED-1AE934946414}|gomerbarton.ssmssqlproj|C:\\mySql\\mySql\\gomerbarton\\Selct.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
@@ -25,11 +32,16 @@
       "AbsoluteMoniker": "D:0:0:{200E93D5-1164-AE37-7879-E52343A66074}|..\\Questions\\Questions.ssmssqlproj|C:\\mySql\\mySql\\Questions\\SQLQuery1.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{200E93D5-1164-AE37-7879-E52343A66074}|..\\Questions\\Questions.ssmssqlproj|C:\\mySql\\mySql\\Questions\\SelectFromTabls.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+      "AbsoluteMoniker": "D:0:0:{200E93D5-1164-AE37-7879-E52343A66074}|..\\Questions\\Questions.ssmssqlproj|C:\\mySql\\mySql\\Questions\\\u043A\u043B\u0430\u0441\u0442\u0435\u0440\u043D\u044B\u0439\u0418\u043D\u0434\u0435\u043A\u0441.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D753FD8E-49F9-9012-8BED-1AE934946414}|gomerbarton.ssmssqlproj|C:\\mySql\\mySql\\gomerbarton\\InsertTble.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
-      "RelativeMoniker": "D:0:0:{D753FD8E-49F9-9012-8BED-1AE934946414}|gomerbarton.ssmssqlproj|solutionrelative:InsertTble.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+      "AbsoluteMoniker": "D:0:0:{200E93D5-1164-AE37-7879-E52343A66074}|..\\Questions\\Questions.ssmssqlproj|C:\\mySql\\mySql\\Questions\\SQL.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200E93D5-1164-AE37-7879-E52343A66074}|..\\Questions\\Questions.ssmssqlproj|C:\\mySql\\mySql\\Questions\\TestIndexTabls.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\mySql\\mySql\\Questions\\SQLQuery6.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,7 +51,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,95 +59,147 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SQLQuery6.sql - COMP7A2\\SQLEXPRESS.AdventureWorks2022 (COMP7A2\\admin (56))",
-              "DocumentMoniker": "C:\\mySql\\mySql\\Questions\\SQLQuery6.sql",
-              "RelativeDocumentMoniker": "..\\Questions\\SQLQuery6.sql",
-              "ToolTip": "SQLQuery6.sql - COMP7A2\\SQLEXPRESS.AdventureWorks2022 (COMP7A2\\admin (56))*",
+              "DocumentIndex": 1,
+              "Title": "2filegroup.sql - (local)\\SQLEXPRESS.ShopDB (MSI\\alexander (51))",
+              "DocumentMoniker": "C:\\mySql\\mySql\\SQL Server Scripts1\\2filegroup.sql",
+              "RelativeDocumentMoniker": "..\\SQL Server Scripts1\\2filegroup.sql",
+              "ToolTip": "2filegroup.sql - (local)\\SQLEXPRESS.ShopDB (MSI\\alexander (51))",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-09-25T09:47:11.041Z",
-              "EditorCaption": " - COMP7A2\\SQLEXPRESS.AdventureWorks2022 (COMP7A2\\admin (56))"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SQLQuery2.sql - COMP7A2\\SQLEXPRESS.DB0 (COMP7A2\\Comp7 (76))",
-              "DocumentMoniker": "C:\\mySql\\mySql\\Questions\\SQLQuery2.sql",
-              "RelativeDocumentMoniker": "..\\Questions\\SQLQuery2.sql",
-              "ToolTip": "SQLQuery2.sql - COMP7A2\\SQLEXPRESS.DB0 (COMP7A2\\Comp7 (76))",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-09-21T09:13:40.934Z"
+              "WhenOpened": "2026-09-27T16:40:37.4Z",
+              "EditorCaption": " - (local)\\SQLEXPRESS.ShopDB (MSI\\alexander (51))"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TestIndexTabls.sql - COMP7A2\\SQLEXPRESS.DB0 (COMP7A2\\Comp7 (80))",
-              "DocumentMoniker": "C:\\mySql\\mySql\\Questions\\TestIndexTabls.sql",
-              "RelativeDocumentMoniker": "..\\Questions\\TestIndexTabls.sql",
-              "ToolTip": "TestIndexTabls.sql - COMP7A2\\SQLEXPRESS.DB0 (COMP7A2\\Comp7 (80))",
+              "Title": "3tables.sql - (local)\\SQLEXPRESS.ShopDB (MSI\\alexander (85))",
+              "DocumentMoniker": "C:\\mySql\\mySql\\SQL Server Scripts1\\3tables.sql",
+              "RelativeDocumentMoniker": "..\\SQL Server Scripts1\\3tables.sql",
+              "ToolTip": "3tables.sql - (local)\\SQLEXPRESS.ShopDB (MSI\\alexander (85))",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-09-18T06:42:57.866Z"
+              "WhenOpened": "2026-09-27T16:54:07.748Z",
+              "EditorCaption": " - (local)\\SQLEXPRESS.ShopDB (MSI\\alexander (85))"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SQL.sql - COMP7A2\\SQLEXPRESS.DB0 (COMP7A2\\admin (53))",
-              "DocumentMoniker": "C:\\mySql\\mySql\\Questions\\SQL.sql",
-              "RelativeDocumentMoniker": "..\\Questions\\SQL.sql",
-              "ToolTip": "SQL.sql - COMP7A2\\SQLEXPRESS.DB0 (COMP7A2\\admin (53))",
+              "DocumentIndex": 0,
+              "Title": "SQLQuery2.sql - not connected",
+              "DocumentMoniker": "C:\\mySql\\mySql\\Questions\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "..\\Questions\\SQLQuery2.sql",
+              "ToolTip": "SQLQuery2.sql - not connected",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-09-18T08:38:45.606Z",
-              "EditorCaption": " - COMP7A2\\SQLEXPRESS.DB0 (COMP7A2\\admin (53))"
+              "WhenOpened": "2026-09-21T09:13:40.934Z",
+              "EditorCaption": " - not connected"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "4insert.sql - (local)\\SQLEXPRESS.ShopDB (MSI\\alexander (84))",
+              "DocumentMoniker": "C:\\mySql\\mySql\\SQL Server Scripts1\\4insert.sql",
+              "RelativeDocumentMoniker": "..\\SQL Server Scripts1\\4insert.sql",
+              "ToolTip": "4insert.sql - (local)\\SQLEXPRESS.ShopDB (MSI\\alexander (84))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-27T17:13:37.011Z",
+              "EditorCaption": " - (local)\\SQLEXPRESS.ShopDB (MSI\\alexander (84))"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "\u043A\u043B\u0430\u0441\u0442\u0435\u0440\u043D\u044B\u0439\u0418\u043D\u0434\u0435\u043A\u0441.sql - COMP7A2\\SQLEXPRESS.DB0 (COMP7A2\\Comp7 (53))",
-              "DocumentMoniker": "C:\\mySql\\mySql\\Questions\\\u043A\u043B\u0430\u0441\u0442\u0435\u0440\u043D\u044B\u0439\u0418\u043D\u0434\u0435\u043A\u0441.sql",
-              "RelativeDocumentMoniker": "..\\Questions\\\u043A\u043B\u0430\u0441\u0442\u0435\u0440\u043D\u044B\u0439\u0418\u043D\u0434\u0435\u043A\u0441.sql",
-              "ToolTip": "\u043A\u043B\u0430\u0441\u0442\u0435\u0440\u043D\u044B\u0439\u0418\u043D\u0434\u0435\u043A\u0441.sql - COMP7A2\\SQLEXPRESS.DB0 (COMP7A2\\Comp7 (53))",
+              "Title": "1crtDb.sql - (local)\\SQLEXPRESS.master (MSI\\alexander (76))",
+              "DocumentMoniker": "C:\\mySql\\mySql\\SQL Server Scripts1\\1crtDb.sql",
+              "RelativeDocumentMoniker": "..\\SQL Server Scripts1\\1crtDb.sql",
+              "ToolTip": "1crtDb.sql - (local)\\SQLEXPRESS.master (MSI\\alexander (76))",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-09-18T08:40:59.487Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SQLQuery1.sql - not connected",
-              "DocumentMoniker": "C:\\mySql\\mySql\\Questions\\SQLQuery1.sql",
-              "RelativeDocumentMoniker": "..\\Questions\\SQLQuery1.sql",
-              "ToolTip": "SQLQuery1.sql - not connected",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-09-21T07:12:41.974Z"
+              "WhenOpened": "2026-09-27T16:58:31.73Z",
+              "EditorCaption": " - (local)\\SQLEXPRESS.master (MSI\\alexander (76))"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Selct.sql - not connected",
-              "DocumentMoniker": "C:\\mySql\\mySql\\gomerbarton\\Selct.sql",
-              "RelativeDocumentMoniker": "Selct.sql",
-              "ToolTip": "Selct.sql - not connected",
+              "Title": "InsertTble.sql - COMP7A2\\SQLEXPRESS.master (MSI\\alexander (67))",
+              "DocumentMoniker": "C:\\mySql\\mySql\\gomerbarton\\InsertTble.sql",
+              "RelativeDocumentMoniker": "InsertTble.sql",
+              "ToolTip": "InsertTble.sql - COMP7A2\\SQLEXPRESS.master (MSI\\alexander (67))",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-09-07T09:33:12.634Z"
+              "WhenOpened": "2026-09-07T09:30:11.797Z",
+              "EditorCaption": " - COMP7A2\\SQLEXPRESS.master (MSI\\alexander (67))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SelectFromTabls.sql - COMP7A2\\SQLEXPRESS.ShopDB (MSI\\alexander (51))",
+              "DocumentMoniker": "C:\\mySql\\mySql\\Questions\\SelectFromTabls.sql",
+              "RelativeDocumentMoniker": "..\\Questions\\SelectFromTabls.sql",
+              "ToolTip": "SelectFromTabls.sql - COMP7A2\\SQLEXPRESS.ShopDB (MSI\\alexander (51))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-18T05:59:08.158Z",
+              "EditorCaption": " - COMP7A2\\SQLEXPRESS.ShopDB (MSI\\alexander (51))"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "SelectFromTabls.sql - not connected",
-              "DocumentMoniker": "C:\\mySql\\mySql\\Questions\\SelectFromTabls.sql",
-              "RelativeDocumentMoniker": "..\\Questions\\SelectFromTabls.sql",
-              "ToolTip": "SelectFromTabls.sql - not connected",
+              "Title": "Selct.sql",
+              "DocumentMoniker": "C:\\mySql\\mySql\\gomerbarton\\Selct.sql",
+              "RelativeDocumentMoniker": "Selct.sql",
+              "ToolTip": "Selct.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-09-18T05:59:08.158Z"
+              "WhenOpened": "2026-09-07T09:33:12.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "InsertTble.sql - not connected",
-              "DocumentMoniker": "C:\\mySql\\mySql\\gomerbarton\\InsertTble.sql",
-              "RelativeDocumentMoniker": "InsertTble.sql",
-              "ToolTip": "InsertTble.sql - not connected",
+              "Title": "SQLQuery1.sql - COMP7A2\\SQLEXPRESS.master (MSI\\alexander (74))",
+              "DocumentMoniker": "C:\\mySql\\mySql\\Questions\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "..\\Questions\\SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql - COMP7A2\\SQLEXPRESS.master (MSI\\alexander (74))",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-09-07T09:30:11.797Z"
+              "WhenOpened": "2026-09-21T07:12:41.974Z",
+              "EditorCaption": " - COMP7A2\\SQLEXPRESS.master (MSI\\alexander (74))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "\u043A\u043B\u0430\u0441\u0442\u0435\u0440\u043D\u044B\u0439\u0418\u043D\u0434\u0435\u043A\u0441.sql - COMP7A2\\SQLEXPRESS.master (MSI\\alexander (71))",
+              "DocumentMoniker": "C:\\mySql\\mySql\\Questions\\\u043A\u043B\u0430\u0441\u0442\u0435\u0440\u043D\u044B\u0439\u0418\u043D\u0434\u0435\u043A\u0441.sql",
+              "RelativeDocumentMoniker": "..\\Questions\\\u043A\u043B\u0430\u0441\u0442\u0435\u0440\u043D\u044B\u0439\u0418\u043D\u0434\u0435\u043A\u0441.sql",
+              "ToolTip": "\u043A\u043B\u0430\u0441\u0442\u0435\u0440\u043D\u044B\u0439\u0418\u043D\u0434\u0435\u043A\u0441.sql - COMP7A2\\SQLEXPRESS.master (MSI\\alexander (71))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-18T08:40:59.487Z",
+              "EditorCaption": " - COMP7A2\\SQLEXPRESS.master (MSI\\alexander (71))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SQL.sql - not connected",
+              "DocumentMoniker": "C:\\mySql\\mySql\\Questions\\SQL.sql",
+              "RelativeDocumentMoniker": "..\\Questions\\SQL.sql",
+              "ToolTip": "SQL.sql - not connected",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-18T08:38:45.606Z",
+              "EditorCaption": " - not connected"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestIndexTabls.sql - COMP7A2\\SQLEXPRESS.master (MSI\\alexander (70))",
+              "DocumentMoniker": "C:\\mySql\\mySql\\Questions\\TestIndexTabls.sql",
+              "RelativeDocumentMoniker": "..\\Questions\\TestIndexTabls.sql",
+              "ToolTip": "TestIndexTabls.sql - COMP7A2\\SQLEXPRESS.master (MSI\\alexander (70))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-18T06:42:57.866Z",
+              "EditorCaption": " - COMP7A2\\SQLEXPRESS.master (MSI\\alexander (70))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SQLQuery6.sql - (local)\\SQLEXPRESS.master (MSI\\alexander (77))",
+              "DocumentMoniker": "C:\\mySql\\mySql\\Questions\\SQLQuery6.sql",
+              "RelativeDocumentMoniker": "..\\Questions\\SQLQuery6.sql",
+              "ToolTip": "C:\\mySql\\mySql\\Questions\\SQLQuery6.sql - (local)\\SQLEXPRESS.master (MSI\\alexander (77))",
+              "RelativeToolTip": "..\\Questions\\SQLQuery6.sql - (local)\\SQLEXPRESS.master (MSI\\alexander (77))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-25T09:47:11.041Z",
+              "EditorCaption": " - (local)\\SQLEXPRESS.master (MSI\\alexander (77))"
             }
           ]
         }
