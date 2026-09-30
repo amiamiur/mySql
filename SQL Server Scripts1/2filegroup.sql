@@ -8,7 +8,7 @@ ALTER DATABASE ShopDB
 ADD FILE
 (
     NAME = ShopCatalog,
-    FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL17.SQLEXPRESS\MSSQL\DATA\ShopCatalog.ndf',
+    FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.SQLEXPRESS\MSSQL\DATA\ShopCatalog.ndf',
     SIZE = 10MB,
     FILEGROWTH = 5MB
 )
@@ -19,7 +19,7 @@ ALTER DATABASE ShopDB
 ADD FILE
 (
     NAME = ShopSales,
-    FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL17.SQLEXPRESS\MSSQL\DATA\ShopSales.ndf',
+    FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.SQLEXPRESS\MSSQL\DATA\ShopSales.ndf',
     SIZE = 10MB,
     FILEGROWTH = 5MB
 )
